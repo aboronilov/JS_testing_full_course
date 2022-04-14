@@ -4,5 +4,8 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
   }
 }
